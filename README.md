@@ -1,5 +1,6 @@
 # AI_ProjectAtlantas
 The goal is leverage ollama AI and surf data to create a structured document that provides insight on the file share structure.
+AI is hosted on docker. 
 This is a 2 part project.
 
 This Workflow: 
